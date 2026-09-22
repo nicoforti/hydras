@@ -67,7 +67,7 @@ We study centralized source seeking using Maskable PPO in time-varying marine co
 
 ### Project slides
 
-[View the slides (PDF)](assets/HYDRAS_slides.pdf) · [Download PowerPoint (PPTX)](assets/HYDRAS_slides.pptx)
+[View the slides (PDF)](assets/HYDRAS_slides.pdf)
 
 ### Source-seeking videos
 
