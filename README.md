@@ -51,7 +51,7 @@ The policy is trained using MIKE 21 simulations of coastal hydrodynamics
 and pollutant transport near Cecina, Italy. Ring measurements represent
 ideal co-moving sensing locations.
 
-At a maximum speed of 1.2 m/s, ring-based PPO achieves 98.4–98.7%
+At a maximum speed of 1.2 m/s, ring-based PPO achieves 98.4-98.7%
 success, compared with 56.4% for the field-climbing baseline.
 
 ## Paper, slides and videos
