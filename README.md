@@ -2,7 +2,6 @@
   <img src="assets/HYDRAS_logo.png" alt="HYDRAS project logo" width="230" style="max-width:100%;height:auto;">
 </p>
 
-# HYDRAS
 ## Hydrodynamic-aware Distributed Robots for Marine Source-Seeking
 
 HYDRAS is a research project at the University of Florence combining
@@ -68,6 +67,12 @@ We study centralized source seeking using Maskable PPO in time-varying marine co
 ### Project slides
 
 [View the slides (PDF)](assets/HYDRAS_slides.pdf)
+
+### Code
+
+The centralized single-agent reinforcement learning implementation used in our OCEANS 2026 paper is available in the repository maintained by Mattia Manneschi:
+
+[HYDRAS code on GitHub](https://github.com/MattiaManneschi/HYDRAS-Project)
 
 ### Source-seeking videos
 
